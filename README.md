@@ -1,6 +1,6 @@
-# First project together
+# E-store
 
-- Triumph and BJ e-store
+- Production in progress by https://twitter.com/Omobolaji___;
 
 - ...simulation of an e-Commerce site
-- Aim: To improve our front-end and programming skills in general.
+- Aim: To improve my front-end and programming skills in general.
